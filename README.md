@@ -1,21 +1,40 @@
 # Hi there, I'm Joshua 👋
 
-**Blockchain Data Analyst | ML Engineer | Full-stack Data Developer**
+**Blockchain Data Analyst | ML Engineer | Full-Stack Data Developer**
 
-Welcome to my GitHub! I specialize in decoding on-chain activities, building interactive dashboards, and creating full-stack analytics platforms that drive actionable insights in the Web3 ecosystem.
+Welcome to my GitHub! I specialize in decoding on-chain activities, building intelligent dashboards, and creating full-stack analytics systems that turn blockchain data into actionable decisions.
 
 📄 **[View My Full CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**
 
 ---
 
+## 🧠 My Approach
+
+I don’t just analyze blockchain data — I engineer **data products** that think.
+
+Every project I build starts with one goal:  
+> *Transform raw on-chain data into clean, automated, and decision-ready insights.*
+
+My process combines data analytics, backend engineering, and full-stack visualization to deliver complete end-to-end solutions:
+
+- 🧩 **Data Engineering:** Build automated ETL pipelines and caching systems (FastAPI + Joblib + Dune API + CoinGecko Pro)  
+- ⚙️ **Automation:** Schedule POST/GET workflows for continuous data refresh and pipeline monitoring  
+- 🧠 **Machine Learning:** Segment wallets, model retention, and detect user behavior patterns  
+- 📊 **Data Storytelling:** Create interactive dashboards that visualize performance, retention, and growth  
+- 🌐 **Deployment:** Ship scalable, production-ready apps via Vercel, Streamlit Cloud, and Railway
+
+Each project is designed to *think* — to deliver fresh, reliable insights automatically, without manual refreshes.
+
+---
+
 ## 🎯 About Me
 
-- 🔗 I decode on-chain activities and turn blockchain data into actionable insights
-- 📊 Working with **Ronin Network** as an On-Chain Game Analyst
-- 💼 Building analytics dashboards for **KTTY World** & **Planet Horse**
-- 🎓 Mentoring aspiring blockchain analysts at **Analytic Sages**
-- 🌱 Currently working on **ronhub.io** and exploring ML applications in DeFi
-- 💡 Passionate about making Web3 data accessible and understandable
+- 🔗 Decode on-chain activities across DeFi, GameFi, and DePIN ecosystems  
+- 📊 On-Chain Game Analyst for **Ronin Network**  
+- 💼 Dashboard creator for **KTTY World** and **Planet Horse** (influenced sell-outs)  
+- 🎓 Mentor at **Analytic Sages**, helping new analysts master Dune, SQL & Python  
+- 🧠 Currently training ML models with wallet behavioral data & building new dashboards for clients  
+- 🚀 Passionate about merging analytics, automation, and intelligence into Web3
 
 ---
 
@@ -49,14 +68,40 @@ Welcome to my GitHub! I specialize in decoding on-chain activities, building int
 
 ---
 
+## 🧩 Selected Projects
+
+### 🔹 **Ronin Ecosystem Tracker**
+*Full-Stack Blockchain Analytics Platform (Next.js + FastAPI + Streamlit)*  
+- Integrated 13 data sources including Dune and CoinGecko Pro  
+- Architected caching backend reducing API cost by 95%  
+- Delivered interactive visualizations for liquidity, retention & whale activity  
+- Recognized by **Jihoz.ron**, Founder of Ronin Network  
+
+### 🔹 **Plasma Lending Protocol Suite (Aave, Euler & Fluid)**
+*Advanced DeFi dashboards for the Plasma Chain on Dune*  
+- Built analytics for lending activity, TVL, utilization, and liquidity flows  
+- Featured by **@Dune** and highlighted across official Plasma analytics threads  
+- Currently ranked **#1 Dune Analyst on Plasma Chain**  
+
+### 🔹 **Stablecoin Health Monitor**
+*Real-time dashboard tracking $180B+ stablecoin ecosystem*  
+- Combined on-chain and off-chain APIs for dynamic stability metrics  
+- Automated daily refresh pipelines and visualized liquidity shifts  
+
+### 🔹 **Magic Eden ($ME) Adoption Analysis**
+*Behavioral segmentation & airdrop analysis dashboard*  
+- Recognized and rewarded by **Magic Eden** & **Dune Team**  
+
+*(Explore more in pinned repositories)*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuatochinwachi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatochinwachi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=joshuatochinwachi&theme=radical&hide_border=true&background=0D1117)
 
 </div>
@@ -65,14 +110,13 @@ Welcome to my GitHub! I specialize in decoding on-chain activities, building int
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **#1 Dune Analyst on Plasma Chain** - Recognized for Aave, Euler & Fluid protocol analytics
-- 📰 **Featured in Dune Digest 17** - Ronin Games analysis reaching 1M+ subscribers
-- 🎁 **Recognized & Rewarded by Dune** - For outstanding contributions to the platform
-- ⭐ **5-Star Review from Magic Eden** - For exceptional $ME adoption analysis
-- 🚀 **Drove 10x Token Growth** - KTTY World analytics contributed to massive price surge
-- 💼 **Major Grant Secured** - Analysis work opened doors for KTTY Labs team funding
-- 🎯 **NFT Sellout Success** - Tamers NFT sold out within 2 weeks of dashboard launch
-- 👏 **Endorsed by Jihoz.ron** - Axie Infinity Co-founder personally praised my Ronin work
+- 🥇 **#1 Dune Analyst on Plasma Chain** – for Aave, Euler & Fluid dashboards  
+- 📰 **Featured in Dune Digest 17** (1M+ subscribers)  
+- 🎁 **Recognized by Dune & Magic Eden** for top-tier analytics work  
+- 🚀 **Helped 1M+ GameFi users scale** through retention insights  
+- 💼 **Secured a Major Grant** through KTTY Labs analysis  
+- ⭐ **Endorsed by Jihoz.ron** (Axie Infinity Co-Founder)  
+- 🧠 **Invited to Dune Con Argentina 2025**  
 
 ---
 
@@ -87,7 +131,7 @@ Welcome to my GitHub! I specialize in decoding on-chain activities, building int
 
 <div align="center">
 
-### 💡 *"Decoding on-chain activities and building dashboards that tell stories and drive actionable insights"*
+### 💡 *"I don’t just build dashboards — I build systems that think."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joshuatochinwachi&color=blueviolet&style=for-the-badge)
 
