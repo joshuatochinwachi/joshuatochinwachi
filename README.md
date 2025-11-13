@@ -2,39 +2,19 @@
 
 **Blockchain Data Analyst | ML Engineer | Full-Stack Data Developer**
 
-Welcome to my GitHub! I specialize in decoding on-chain activities, building intelligent dashboards, and creating full-stack analytics systems that turn blockchain data into actionable decisions.
+I turn blockchain data into actionable insights through automated dashboards and intelligent analytics systems.
 
 📄 **[View My Full CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**
 
 ---
 
-## 🧠 My Approach
-
-I don't just analyze blockchain data — I engineer **data products** that think.
-
-Every project I build starts with one goal:  
-> *Transform raw on-chain data into clean, automated, and decision-ready insights.*
-
-My process combines data analytics, backend engineering, and full-stack visualization to deliver complete end-to-end solutions:
-
-- 🧩 **Data Engineering:** Build automated ETL pipelines and caching systems (FastAPI + Joblib + Dune API + CoinGecko Pro)  
-- ⚙️ **Automation:** Schedule POST/GET workflows for continuous data refresh and pipeline monitoring  
-- 🧠 **Machine Learning:** Segment wallets, model retention, and detect user behavior patterns  
-- 📊 **Data Storytelling:** Create interactive dashboards that visualize performance, retention, and growth  
-- 🌐 **Deployment:** Ship scalable, production-ready apps via Vercel, Streamlit Cloud, and Railway
-
-Each project is designed to *think* — to deliver fresh, reliable insights automatically, without manual refreshes.
-
----
-
 ## 🎯 About Me
 
-- 🔗 Decode on-chain activities across DeFi, GameFi, and DePIN ecosystems  
-- 📊 On-Chain Game Analyst for **Ronin Network**  
-- 💼 Dashboard creator for **KTTY World** and **Planet Horse** (influenced sell-outs)  
-- 🎓 Mentor at **Analytic Sages**, helping new analysts master Dune, SQL & Python  
-- 🧠 Currently training ML models with wallet behavioral data & building new dashboards for clients  
-- 🚀 Passionate about merging analytics, automation, and intelligence into Web3
+- 🔗 I decode on-chain activities across DeFi, GameFi, and DePIN ecosystems
+- 📊 On-Chain Game Analyst at **Ronin Network**
+- 💼 Building dashboards for **KTTY World** & **Planet Horse**
+- 🎓 Mentoring blockchain analysts at **Analytic Sages**
+- 🚀 Building full-stack analytics platforms with FastAPI, Next.js & Streamlit
 
 ---
 
@@ -105,17 +85,14 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
-- 🥇 **#1 Dune Analyst on Plasma Chain** – for Aave, Euler & Fluid dashboards  
-- 📰 **Featured in Dune Digest 17** (1M+ subscribers)  
-- 🎁 **Recognized by Dune & Magic Eden** for top-tier analytics work and rewarded with [their merch](https://x.com/defi__josh/status/1950586297686413752) 
-- 🚀 **Helped 1M+ GameFi users scale** through retention insights on Ronin 
-- 💼 **Secured a Major Grant** through KTTY Labs analysis  
-- ⭐ **Endorsed by Jihoz.ron** (Ronin Network and Axie Infinity Co-Founder)  
-- 🧠 **Specially Invited to Dune Con Argentina 2025**
-
-...and lots more.
+🥇 **#1 Dune Analyst on Plasma Chain** – Aave, Euler & Fluid dashboards  
+📰 **Featured in Dune Digest 17** – Reached 1M+ subscribers  
+🎁 **Recognized by Dune & Magic Eden** – [Rewarded with merch](https://x.com/defi__josh/status/1950586297686413752)  
+💼 **Secured Major Grant** – KTTY Labs analysis opened funding doors  
+⭐ **Endorsed by Jihoz.ron** – Axie Infinity Co-Founder  
+🧠 **Invited to Dune Con Argentina 2025**
 
 ---
 
@@ -123,14 +100,14 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-nwachukwu-1a0037188)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/defi__josh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuatochinwachi@gmail.com)
 [![Dune](https://img.shields.io/badge/Dune-FF6B35?style=for-the-badge&logo=dune&logoColor=white)](https://dune.com/defi__josh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuatochinwachi@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💡 *"I don't just build dashboards — I build systems that think."*
+### 💡 *"Building systems that turn data into decisions"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joshuatochinwachi&color=blueviolet&style=for-the-badge)
 
