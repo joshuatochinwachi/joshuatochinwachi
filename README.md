@@ -1,20 +1,23 @@
 # Hi there, I'm Joshua 👋
 
-**Blockchain Data Analyst | ML Engineer | Full-Stack Data Developer**
+**Blockchain Data Analyst | DS/ML Engineer | Full-Stack Data Developer**
 
-I turn blockchain data into actionable insights through automated dashboards and intelligent analytics systems.
+I build intelligent systems that read the blockchain, extract the signal, and turn it into insights that actually matter.
+
+Using SQL, Python, Dune, FastAPI, React, Next.js, and ML, I create fast, automated, and reliable analytics pipelines that help teams understand on-chain activity, measure performance, and make informed decisions.
 
 📄 **[View My Full CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**
 
 ---
 
-## 🎯 About Me
+## 🎯 What I Do
 
-- 🔗 I decode on-chain activities across DeFi, GameFi, and DePIN ecosystems
-- 📊 On-Chain Game Analyst at **Ronin Network**
-- 💼 Building dashboards for **KTTY World** & **Planet Horse**
-- 🎓 Mentoring blockchain analysts at **Analytic Sages**
-- 🚀 Building full-stack analytics platforms with FastAPI, Next.js & Streamlit
+- **On-chain Analytics**: Turning raw blockchain transactions/events into clear, actionable insights
+- **Data Engineering**: Building automated ETL pipelines, caching systems, and real-time metrics
+- **Full-Stack Apps**: End-to-end analytics platforms (FastAPI backend + Next.js frontend)
+- **Machine Learning**: Behavioral modeling, clustering, anomaly detection, forecasting
+- **Dashboarding/Business Intelligence**: Intelligent [Dune dashboards](https://dune.com/defi__josh) for DeFi, gaming, NFTs, L1/L2 ecosystems, etc.
+...and lots more
 
 ---
 
