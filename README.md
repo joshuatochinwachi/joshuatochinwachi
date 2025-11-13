@@ -57,7 +57,7 @@ Welcome to my GitHub! I specialize in decoding on-chain activities, building int
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuatochinwachi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joshuatochinwachi&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joshuatochinwachi&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
