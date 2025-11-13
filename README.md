@@ -6,7 +6,7 @@ I build intelligent systems that read the blockchain, extract the signal, and tu
 
 Using SQL, Python, Dune, FastAPI, React, Next.js, and ML, I create fast, automated, and reliable analytics pipelines that help teams understand on-chain activity, measure performance, and make informed decisions.
 
-📄 **[View My Full CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**
+📄 **[CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**
 
 ---
 
@@ -17,6 +17,7 @@ Using SQL, Python, Dune, FastAPI, React, Next.js, and ML, I create fast, automat
 - **Full-Stack Apps**: End-to-end analytics platforms (FastAPI backend + Next.js frontend)
 - **Machine Learning**: Behavioral modeling, clustering, anomaly detection, forecasting
 - **Dashboarding/Business Intelligence**: Intelligent [Dune dashboards](https://dune.com/defi__josh) for DeFi, gaming, NFTs, L1/L2 ecosystems, etc.
+
 ...and lots more
 
 ---
