@@ -113,7 +113,9 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 - 🚀 **Helped 1M+ GameFi users scale** through retention insights on Ronin 
 - 💼 **Secured a Major Grant** through KTTY Labs analysis  
 - ⭐ **Endorsed by Jihoz.ron** (Ronin Network and Axie Infinity Co-Founder)  
-- 🧠 **Specially Invited to Dune Con Argentina 2025**  
+- 🧠 **Specially Invited to Dune Con Argentina 2025**
+
+...and lots more.
 
 ---
 
