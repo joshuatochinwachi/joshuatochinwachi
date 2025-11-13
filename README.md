@@ -10,7 +10,7 @@ Welcome to my GitHub! I specialize in decoding on-chain activities, building int
 
 ## 🧠 My Approach
 
-I don’t just analyze blockchain data — I engineer **data products** that think.
+I don't just analyze blockchain data — I engineer **data products** that think.
 
 Every project I build starts with one goal:  
 > *Transform raw on-chain data into clean, automated, and decision-ready insights.*
@@ -44,6 +44,8 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 ![Dune Analytics](https://img.shields.io/badge/Dune_Analytics-FF6B35?style=for-the-badge&logo=dune&logoColor=white)
 ![Flipside](https://img.shields.io/badge/Flipside-4285F4?style=for-the-badge&logo=flipside&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3.py&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,43 +58,37 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Data Engineering & ETL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
----
+### APIs & Integration
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Dune API](https://img.shields.io/badge/Dune_API-FF6B35?style=for-the-badge&logo=dune&logoColor=white)
+![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC63F?style=for-the-badge&logo=coingecko&logoColor=white)
 
-## 🧩 Selected Projects
-
-### 🔹 **Ronin Ecosystem Tracker**
-*Full-Stack Blockchain Analytics Platform (Next.js + FastAPI + Streamlit)*  
-- Integrated 13 data sources including Dune and CoinGecko Pro  
-- Architected caching backend reducing API cost by 95%  
-- Delivered interactive visualizations for liquidity, retention & whale activity  
-- Recognized by **Jihoz.ron**, Founder of Ronin Network  
-
-### 🔹 **Plasma Lending Protocol Suite (Aave, Euler & Fluid)**
-*Advanced DeFi dashboards for the Plasma Chain on Dune*  
-- Built analytics for lending activity, TVL, utilization, and liquidity flows  
-- Featured by **@Dune** and highlighted across official Plasma analytics threads  
-- Currently ranked **#1 Dune Analyst on Plasma Chain**  
-
-### 🔹 **Stablecoin Health Monitor**
-*Real-time dashboard tracking $180B+ stablecoin ecosystem*  
-- Combined on-chain and off-chain APIs for dynamic stability metrics  
-- Automated daily refresh pipelines and visualized liquidity shifts  
-
-### 🔹 **Magic Eden ($ME) Adoption Analysis**
-*Behavioral segmentation & airdrop analysis dashboard*  
-- Recognized and rewarded by **Magic Eden** & **Dune Team**  
-
-*(Explore more in pinned repositories)*
+### Deployment & Cloud
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -112,11 +108,11 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 
 - 🥇 **#1 Dune Analyst on Plasma Chain** – for Aave, Euler & Fluid dashboards  
 - 📰 **Featured in Dune Digest 17** (1M+ subscribers)  
-- 🎁 **Recognized by Dune & Magic Eden** for top-tier analytics work  
-- 🚀 **Helped 1M+ GameFi users scale** through retention insights  
+- 🎁 **Recognized by Dune & Magic Eden** for top-tier analytics work and rewarded with [their merch](https://x.com/defi__josh/status/1950586297686413752) 
+- 🚀 **Helped 1M+ GameFi users scale** through retention insights on Ronin 
 - 💼 **Secured a Major Grant** through KTTY Labs analysis  
-- ⭐ **Endorsed by Jihoz.ron** (Axie Infinity Co-Founder)  
-- 🧠 **Invited to Dune Con Argentina 2025**  
+- ⭐ **Endorsed by Jihoz.ron** (Ronin Network and Axie Infinity Co-Founder)  
+- 🧠 **Specially Invited to Dune Con Argentina 2025**  
 
 ---
 
@@ -131,7 +127,7 @@ Each project is designed to *think* — to deliver fresh, reliable insights auto
 
 <div align="center">
 
-### 💡 *"I don’t just build dashboards — I build systems that think."*
+### 💡 *"I don't just build dashboards — I build systems that think."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=joshuatochinwachi&color=blueviolet&style=for-the-badge)
 
