@@ -91,12 +91,12 @@ Using SQL, Python, Dune, FastAPI, React, Next.js, and ML, I create fast, automat
 
 ## 🏆 Achievements
 
-🥇 **#1 Dune Analyst on [Plasma](https://dune.com/blockchains/plasma) and [Ronin](https://dune.com/blockchains/ronin) blockchains** 
-📰 **Featured in [Dune Digest 17](https://x.com/Dune/status/1941542667751653592)** – My dashboard was publicized on X and via [emails](https://x.com/defi__josh/status/1942248614329294899) that reached 1M+ subscribers. My dashboards were also featured several other times e.g Aave, [Euler](https://x.com/Dune/status/1983911929967182280), [Fluid](https://x.com/Dune/status/1983911913307435191) protocol analysis, etc.
-🎁 **Recognized by Dune & Magic Eden** – [Rewarded with merch](https://x.com/defi__josh/status/1950586297686413752)  
-💼 **Secured Major Grant** – My Ronin Tracker App opened funding doors  
-⭐ **Endorsed by Jihoz.ron** – Ronin Network & Axie Infinity Co-Founder  
-🧠 **Specially Invited to Dune Con Argentina 2025**
+- 🥇 **#1 Dune Analyst on [Plasma](https://dune.com/blockchains/plasma) and [Ronin](https://dune.com/blockchains/ronin) blockchains** 
+- 📰 **Featured in [Dune Digest 17](https://x.com/Dune/status/1941542667751653592)** – My dashboard was publicized on X and via [emails](https://x.com/defi__josh/status/1942248614329294899) that reached 1M+ subscribers. My dashboards were also featured several other times e.g Aave, [Euler](https://x.com/Dune/status/1983911929967182280), [Fluid](https://x.com/Dune/status/1983911913307435191) protocol analysis, etc.
+- 🎁 **Recognized by Dune & Magic Eden** – [Rewarded with merch](https://x.com/defi__josh/status/1950586297686413752)  
+- 💼 **Secured Major Grant** – My Ronin Tracker App opened funding doors  
+- ⭐ **Endorsed by Jihoz.ron** – Ronin Network & Axie Infinity Co-Founder  
+- 🧠 **Specially Invited to Dune Con Argentina 2025**
 
 ---
 
