@@ -2,7 +2,7 @@
 
 **Blockchain Data Analyst | Data Engineer | ML Engineer | Full-Stack Developer**
 
-I turn blockchain data into actionable insights using **SQL**, **Python**, and **ML**—building analytics systems that help teams measure performance and make data-driven decisions.
+I decode blockchain data and build full-stack analytics systems that turn on-chain activity into business insights—helping Web3 teams track performance, predict user behavior, and make data-driven decisions.
 
 📄 **[View My CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)**  
 📊 **[Dune Portfolio](https://dune.com/defi__josh)** – #1 Analyst on Plasma & Ronin blockchains
@@ -17,9 +17,9 @@ I turn blockchain data into actionable insights using **SQL**, **Python**, and *
 - ML models for user behavior, retention prediction, and anomaly detection
 
 **Full-Stack Data Applications**
-- Production APIs and web apps (FastAPI + Next.js + PostgreSQL)
+- Production APIs and web apps (FastAPI + Next.js + Dune Analytics)
 - Interactive dashboards processing live blockchain data
-- End-to-end analytics platforms with caching and real-time updates
+- End-to-end analytics platforms with intelligent caching and real-time updates
 
 ---
 
@@ -29,7 +29,7 @@ I turn blockchain data into actionable insights using **SQL**, **Python**, and *
 **Backend:** FastAPI · Node.js · PostgreSQL · REST APIs  
 **Frontend:** React · Next.js · TypeScript · Streamlit  
 **ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost  
-**Cloud:** AWS · Docker · Vercel · Railway
+**Cloud:** AWS · Docker · Vercel · Railway · Streamlit
 
 ---
 
