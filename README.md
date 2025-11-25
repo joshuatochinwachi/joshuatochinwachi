@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Joshua 👋
 
 **Blockchain Data Analyst | Data Engineer | ML Engineer | Full-Stack Developer**
@@ -7,8 +5,6 @@
 I decode blockchain data and build full-stack analytics systems that turn on-chain activity into business insights—helping Web3 teams track performance, predict user behavior, and make data-driven decisions.
 
 📄 **[My CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)** | 📊 **[Dune Portfolio](https://dune.com/defi__josh)** – #1 Analyst on Plasma & Ronin blockchains
-
-</div>
 
 ---
 
