@@ -24,11 +24,13 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 
 ## Tech Stack
 
-**Core:** SQL · Python · Dune Analytics · Machine Learning  
-**Backend:** FastAPI · Node.js · PostgreSQL · REST APIs  
-**Frontend:** React · Next.js · TypeScript · Streamlit  
-**ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost  
-**Cloud:** AWS · Docker · Vercel · Railway · Streamlit
+**Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · Machine Learning  
+**Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust  
+**Backend:** FastAPI · Node.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API  
+**Frontend:** React · Next.js · TypeScript · Streamlit · V0 (Vercel) · HTML · CSS · JavaScript  
+**ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · Pandas · NumPy  
+**Visualization:** Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
+**Cloud:** AWS · Docker · Git · Apache Airflow · Vercel · Railway · Streamlit Cloud
 
 ---
 
