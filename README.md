@@ -42,7 +42,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 ✅ **#1 Dune Analyst** on Plasma and Ronin blockchains  
 ✅ **Real Impact** – My dashboards drove NFT sellouts and 10x token price increases  
 ✅ **Endorsed by Jihoz.ron** – Co-Founder of Ronin & Axie Infinity; secured major grant  
-✅ **Invited to Dune Con Argentina 2025**
+✅ **Rewarded with Dune Merch (a rare gift to top builders) and Specially Invited to Dune Con Argentina 2025**
 
 ---
 
