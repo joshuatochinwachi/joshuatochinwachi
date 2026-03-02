@@ -19,6 +19,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 - Production APIs and web apps (FastAPI + Next.js + Dune Analytics)
 - Interactive dashboards processing live blockchain data
 - End-to-end analytics platforms with intelligent caching and real-time updates
+- Cross-platform mobile applications (iOS & Android) with live data feeds, push notifications, native in-app payments (Apple Pay · Google Pay), and subscription lifecycle management synced across platforms (React Native · Expo)
 
 ---
 
@@ -26,9 +27,10 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 
 **Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · Machine Learning  
 **Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust  
-**Backend:** FastAPI · Node.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API  
-**Frontend:** React · Next.js · TypeScript · Streamlit · V0 (Vercel) · HTML · CSS · JavaScript  
-**ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · Pandas · NumPy  
+**Backend:** FastAPI · Node.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API 
+**Frontend:** React · Next.js · TypeScript · React Native · Expo · Streamlit · V0 (Vercel) · HTML · CSS · JavaScript  
+**Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
+**ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy 
 **Visualization:** Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
 **Cloud:** AWS · Docker · Git · Apache Airflow · Vercel · Railway · Streamlit Cloud
 
