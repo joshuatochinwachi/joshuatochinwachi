@@ -39,7 +39,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 ## Key Wins
 
 ✅ **Featured in Dune Digest 17** – Ronin Games analysis reached 1M+ subscribers  
-✅ **#1 Dune Analyst** on Cardano, Plasma and Ronin blockchains and earned a public shout-out across all three
+✅ **#1 Dune Analyst** on Cardano, Plasma and Ronin blockchains and earned a public shout-out across all three  
 ✅ **Real Impact** – My dashboards drove NFT sellouts and 10x token price increases  
 ✅ **Endorsed by Jihoz.ron** – Co-Founder of Ronin & Axie Infinity; secured major grant  
 ✅ **Rewarded with Dune Merch (a rare gift to top builders) and Specially Invited to Dune Con Argentina 2025**
