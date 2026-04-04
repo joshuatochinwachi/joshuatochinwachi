@@ -31,7 +31,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 **Frontend:** React · Next.js · TypeScript · React Native · Expo · Streamlit · HTML · CSS · JavaScript · Tailwind CSS  
 **Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
 **ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
-**Visualization:** Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
+**Visualization:** Dune's Dashboarding Tool · Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
 **Cloud:** AWS · Docker · Git · Apache Airflow · Vercel · Railway · Streamlit Cloud
 
 ---
@@ -39,7 +39,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 ## Key Wins
 
 ✅ **Featured in Dune Digest 17** – Ronin Games analysis reached 1M+ subscribers  
-✅ **#1 Dune Analyst** on Plasma and Ronin blockchains  
+✅ **#1 Dune Analyst** on Cardano, Plasma and Ronin blockchains and earned a public shout-out across all three
 ✅ **Real Impact** – My dashboards drove NFT sellouts and 10x token price increases  
 ✅ **Endorsed by Jihoz.ron** – Co-Founder of Ronin & Axie Infinity; secured major grant  
 ✅ **Rewarded with Dune Merch (a rare gift to top builders) and Specially Invited to Dune Con Argentina 2025**
