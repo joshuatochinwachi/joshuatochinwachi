@@ -4,7 +4,7 @@
 
 I decode blockchain data and build full-stack analytics systems that turn on-chain activity into business insights—helping Web3 teams track performance, predict user behavior, and make data-driven decisions.
 
-📄 **[My CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)** | 📊 **[Dune Portfolio](https://dune.com/defi__josh)** – #1 Analyst on Plasma & Ronin blockchains
+📄 **[My CV](https://docs.google.com/document/d/12Il53rmtI2QOP1z4qoSI-Fm0fFFxQ-s9)** | 📊 **[Dune Portfolio](https://dune.com/defi__josh)** – #1 Analyst on Cardano, Plasma & Ronin blockchains
 
 ---
 
@@ -28,7 +28,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 **Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · Machine Learning  
 **Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust · RPC Nodes  
 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API  
-**Frontend:** React · Next.js · TypeScript · React Native · Expo · Streamlit · V0 (Vercel) · HTML · CSS · JavaScript · Tailwind CSS  
+**Frontend:** React · Next.js · TypeScript · React Native · Expo · Streamlit · HTML · CSS · JavaScript · Tailwind CSS  
 **Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
 **ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
 **Visualization:** Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
