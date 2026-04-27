@@ -20,7 +20,8 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 - Interactive dashboards processing live blockchain data
 - End-to-end analytics platforms with intelligent caching (**Singleflight Merger**) and real-time updates
 - Cross-platform mobile applications with **Defense-in-Depth IAP Sync** (iOS/Android/Telegram), utilizing StoreKit 2 `appAccountToken` to eliminate payment race conditions.
-- **Industrial Ingestion Clusters**: Developed a multithreaded **Stealth Archiver** (Playwright) using human heuristics and **High-Res Image Hijacking** to deliver 4K visuals from low-res marketplace embeds.
+- **Industrial Ingestion Clusters**: Developed a multithreaded **Stealth Archiver** (Playwright) on **Contabo VPS** using human heuristics and **High-Res Image Hijacking** to deliver 4K visuals from low-res embeds.
+- **Distributed CI/CD Architecture**: Built a "Zero-Exposure" deployment pipeline using **GitHub Actions** that handles **Secret Reconstitution** (ephemeral decoding of production certificates) for automated native builds.
 
 ---
 
@@ -33,7 +34,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 **Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
 **ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
 **Visualization:** Dune's Dashboarding Tool · Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
-**Patterns & DevOps:** **Singleflight Cache Merger** · **iOS Plunger Logic** · **PDS Logic** · **Zero-Limit Build Engine** (GHA + Local Native Builds) · Git · Docker · Apache Airflow · Vercel · Railway · AWS · Streamlit Cloud
+**Patterns & DevOps:** **Singleflight Cache Merger** · **iOS Plunger Logic** · **PDS Logic** · **Zero-Limit Build Engine** (GHA + Local Builds) · **Secret Reconstitution** · **GitHub Actions** · **Contabo VPS** · Git · Docker · Apache Airflow · Vercel · Railway · AWS · Streamlit Cloud
 
 ---
 
