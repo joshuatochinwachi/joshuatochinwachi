@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua 👋
 
-**Blockchain Data Analyst | Data Engineer | ML Engineer | Full-Stack Developer**
+**Blockchain Expert | Data Wizard | Full-Stack Developer**
 
 I decode blockchain data and build full-stack analytics systems that turn on-chain activity into business insights—helping Web3 teams track performance, predict user behavior, and make data-driven decisions.
 
@@ -15,7 +15,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 - Real-time dashboards for DeFi, gaming, NFTs, and L1/L2 ecosystems
 - ML models for user behavior, retention prediction, and anomaly detection
 
-**Full-Stack Data Applications**
+**Full-Stack Applications**
 - Production APIs and web apps (FastAPI + Next.js + Dune Analytics)
 - Interactive dashboards processing live blockchain data
 - End-to-end analytics platforms with intelligent caching (**Singleflight Merger**) and real-time updates
@@ -27,14 +27,14 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 
 ## Tech Stack
 
-**Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · Machine Learning  
-**Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust · RPC Nodes  
-**Backend:** FastAPI · Node.js · Express.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API  
-**Frontend:** React · Next.js · TypeScript · React Native · Expo · Streamlit · HTML · CSS · JavaScript · Tailwind CSS  
-**Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
-**ML:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
-**Visualization:** Dune's Dashboarding Tool · Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
-**Patterns & DevOps:** **Singleflight Cache Merger** · **iOS Plunger Logic** · **PDS Logic** · **Zero-Limit Build Engine** (GHA + Local Builds) · **Secret Reconstitution** · **GitHub Actions** · **Contabo VPS** · Git · Docker · Apache Airflow · Vercel · Railway · AWS · Streamlit Cloud
+📍 **Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · AI/ML · React 
+📍 **Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust · RPC Nodes  
+📍 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API  
+📍 **Frontend:** React.js · Next.js · TypeScript · React Native · Expo · Streamlit · HTML · CSS · JavaScript · Tailwind CSS  
+📍 **Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
+📍 **Machine Learning:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
+📍 **Visualization:** Dune's Dashboarding Tool · Power BI · Tableau · Plotly · Matplotlib · Seaborn · Recharts · Excel (VBA, Macros)  
+📍 **Patterns & DevOps:** **Singleflight Cache Merger** · **iOS Plunger Logic** · **PDS Logic** · **Zero-Limit Build Engine** (GHA + Local Builds) · **Secret Reconstitution** · **GitHub Actions** · **Contabo VPS** · Git · Docker · Apache Airflow · Vercel · Railway · AWS · Streamlit Cloud
 
 ---
 
