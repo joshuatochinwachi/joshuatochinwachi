@@ -29,7 +29,7 @@ I decode blockchain data and build full-stack analytics systems that turn on-cha
 
 📍 **Core:** SQL (PostgreSQL, MSSQL, Snowflake, Trino) · Python · Dune Analytics · Flipside · AI/ML · React  
 📍 **Blockchain:** Envio Indexer · Ethers.js · Web3.py · Solidity · Rust · RPC Nodes  
-📍 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API · App script 
+📍 **Backend:** FastAPI · Node.js · Express.js · SQLAlchemy · REST/GraphQL · Dune API · CoinGecko API · Playwright · Socket.IO · AsyncIO · Telegram Bot API · App script  
 📍 **Frontend:** React.js · Next.js · TypeScript · React Native · Expo · Streamlit · HTML · CSS · JavaScript · Tailwind CSS  
 📍 **Auth/Payments:** Supabase · Stripe · Apple Pay · Google Pay  
 📍 **Machine Learning:** Scikit-Learn · PyTorch · TensorFlow · XGBoost · LightGBM · Pandas · NumPy  
